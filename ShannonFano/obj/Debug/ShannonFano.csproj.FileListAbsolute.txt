@@ -1,0 +1,9 @@
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\bin\Debug\ShannonFano.exe.config
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\bin\Debug\ShannonFano.exe
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\bin\Debug\ShannonFano.pdb
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.csprojAssemblyReference.cache
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.Properties.Resources.resources
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.csproj.GenerateResource.cache
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.csproj.CoreCompileInputs.cache
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.exe
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.pdb
