@@ -7,3 +7,14 @@ C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debu
 C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.csproj.CoreCompileInputs.cache
 C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.exe
 C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.pdb
+C:\Users\vagei\OneDrive\Рабочий стол\ShannonFano\ShannonFano\obj\Debug\ShannonFano.ShannonFano.resources
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\bin\Debug\ShannonFano.exe.config
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\bin\Debug\ShannonFano.exe
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\bin\Debug\ShannonFano.pdb
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\obj\Debug\ShannonFano.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\obj\Debug\ShannonFano.Properties.Resources.resources
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\obj\Debug\ShannonFano.ShannonFano.resources
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\obj\Debug\ShannonFano.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\obj\Debug\ShannonFano.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\obj\Debug\ShannonFano.exe
+C:\Users\user\Desktop\ИГЭУ\3 курс\2 семестр\АСД\ShannonFano (2)\ShannonFano\ShannonFano\obj\Debug\ShannonFano.pdb
